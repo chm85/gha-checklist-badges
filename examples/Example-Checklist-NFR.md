@@ -20,18 +20,18 @@
   - [ ] .github/ISSUE_TEMPLATE - add issue templates [optional]
 - [ ] Project management:
   - [x] Move all features/bugs/todos to Issues.
-  - [ ] Create Wiki if needed [optional]
+  - [x] Create Wiki if needed [optional]
   - [x] Talk about PR policy.
 - [ ] Release management:
-  - [ ] Talk about release management on GitHub.
-  - [ ] SemVer and proper versioning and tagging.
+  - [x] Talk about release management on GitHub.
+  - [x] SemVer and proper versioning and tagging.
 - [ ] CI/CD:
   - [x] Possibly we could keep GitLab, but we need to think about CI for forks.
-  - [ ] Security check for CI/CD workflows.
-  - [ ] Branch rules (protect master branch).
+  - [x] Security check for CI/CD workflows.
+  - [x] Branch rules (protect master branch).
 - [ ] Package distribution
-  - [ ] Prepare project for publish to NuGet.
-  - [ ] Create project on public NuGet as DodoPizza organization.
+  - [x] Prepare project for publish to NuGet.
+  - [x] Create project on public NuGet as DodoPizza organization.
 - [ ] Move to Open Source:
   - [ ] Double-check this checklist
   - [ ] Make project public on GitHub.
