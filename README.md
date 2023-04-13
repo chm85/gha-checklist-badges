@@ -1,4 +1,4 @@
-![Example-TODO](https://img.shields.io/badge/Example--TODO-37%25%203%2F8-yellow) 
+![Example-TODO](https://img.shields.io/badge/Example--TODO-87%25%207%2F8-green) 
 ![Example-Checklist-NFR](https://img.shields.io/badge/Example--Checklist--NFR-25%25%2010%2F40-red) 
 
 
