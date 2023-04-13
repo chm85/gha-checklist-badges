@@ -3,13 +3,13 @@
 - [ ] Security: check secrets/connection strings.
 - [ ] Check dependencies (security or private repository).
 - [ ] Files hierarchy and IDE support:
-  - [ ] Create solution file in the project root.
-  - [ ] Move project to src/ folder.
-  - [ ] Update .gitignore if needed.
+  - [x] Create solution file in the project root.
+  - [x] Move project to src/ folder.
+  - [x] Update .gitignore if needed.
 - [ ] Code:
   - [ ] Check code (refactoring if needed).
-  - [ ] Check namespaces.
-  - [ ] Check language. All coments in code should be in English.
+  - [x] Check namespaces.
+  - [x] Check language. All coments in code should be in English.
 - [ ] Change project name. Current name of the project does not reflect its purpose.
 - [ ] Introduce project style guide by adding .editorconfig.
 - [ ] Required GitHub files:
